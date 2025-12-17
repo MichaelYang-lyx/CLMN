@@ -6,7 +6,9 @@ This repository contains the implementation of **Concept Language Model Network 
 
 Deep learning models in NLP often function as "black boxes," limiting their adoption in high-stakes domains like healthcare and finance where transparency is essential. While Concept Bottleneck Models (CBMs) have been successful in Computer Vision, their adaptation to NLP often suffers from information loss due to rigid binary concepts or obscured semantics.
 
+<br>
 <img src="resources/structure.png" align="center" width="1200" height="600" style="border: 2px solid black">
+<br>
 
 **CLMN** addresses these limitations by:
 
@@ -109,7 +111,9 @@ In the example:
 
 3.  **Result:** This derivation process allows users to verify _why_ the model assigned a specific rating, addressing the trust issues in black-box models.
 
+<br>
 <img src="resources/example.png" align="center" width="800" height="400" style="border: 2px solid black">
+<br>
 
 ## 🔗 Citation
 
