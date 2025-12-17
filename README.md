@@ -76,7 +76,8 @@ mode = 'joint'
 data_type = "aug_cebab_yelp"
 
 # Run the script
-python train_clmn.py
+cd run_cebab
+python cbm_joint.py
 
 ```
 
