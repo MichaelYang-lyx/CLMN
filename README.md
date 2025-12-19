@@ -120,9 +120,11 @@ In the example:
 
 If you use this code or findings in your research, please cite the paper:
 
+```bibtex
 @article{yang2025clmn,
   title={CLMN: Concept based Language Models via Neural Symbolic Reasoning},
   author={Yang, Yibo},
   journal={arXiv preprint arXiv:2510.10063},
   year={2025}
 }
+```
